@@ -1,5 +1,4 @@
 # EletroPy
---------------------------
 
 ## Introduction:
 
